@@ -1,0 +1,17 @@
+C:/Users/Patrick/SynologyDrive/Code/multi_timer/build/windows/runner/Debug/data/icudtl.dat
+C:/Users/Patrick/SynologyDrive/Code/multi_timer/build/windows/runner/Debug/flutter_windows.dll
+C:/Users/Patrick/SynologyDrive/Code/multi_timer/build/windows/runner/Debug/audioplayers_windows_plugin.dll
+C:/Users/Patrick/SynologyDrive/Code/multi_timer/build/windows/runner/Debug/desktop_window_plugin.dll
+C:/Users/Patrick/SynologyDrive/Code/multi_timer/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/Patrick/SynologyDrive/Code/multi_timer/build/windows/runner/Debug/data/flutter_assets/assets/boiling-water.png
+C:/Users/Patrick/SynologyDrive/Code/multi_timer/build/windows/runner/Debug/data/flutter_assets/assets/chicken-icon-32101.png
+C:/Users/Patrick/SynologyDrive/Code/multi_timer/build/windows/runner/Debug/data/flutter_assets/assets/chimes.png
+C:/Users/Patrick/SynologyDrive/Code/multi_timer/build/windows/runner/Debug/data/flutter_assets/assets/CHIMES.WAV
+C:/Users/Patrick/SynologyDrive/Code/multi_timer/build/windows/runner/Debug/data/flutter_assets/assets/PUSH.WAV
+C:/Users/Patrick/SynologyDrive/Code/multi_timer/build/windows/runner/Debug/data/flutter_assets/assets/rooster.wav
+C:/Users/Patrick/SynologyDrive/Code/multi_timer/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/Patrick/SynologyDrive/Code/multi_timer/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/Patrick/SynologyDrive/Code/multi_timer/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/Patrick/SynologyDrive/Code/multi_timer/build/windows/runner/Debug/data/flutter_assets/NOTICES
+C:/Users/Patrick/SynologyDrive/Code/multi_timer/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/Patrick/SynologyDrive/Code/multi_timer/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf

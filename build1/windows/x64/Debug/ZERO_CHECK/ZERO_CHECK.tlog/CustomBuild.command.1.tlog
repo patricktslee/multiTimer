@@ -1,0 +1,10 @@
+^C:\USERS\PATRICK\SYNOLOGYDRIVE\CODE\MULTI_TIMER\BUILD\WINDOWS\CMAKEFILES\2928BD04228A625BFA27192B0459D807\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/Patrick/SynologyDrive/Code/multi_timer/windows -BC:/Users/Patrick/SynologyDrive/Code/multi_timer/build/windows --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Patrick/SynologyDrive/Code/multi_timer/build/windows/multi_timer.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

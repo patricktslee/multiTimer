@@ -1,0 +1,49 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/Patrick/SynologyDrive/Code/multi_timer/build/windows/_deps/nuget-subbuild/CMakeFiles/nuget-populate"
+		},
+		{
+			"file" : "C:/Users/Patrick/SynologyDrive/Code/multi_timer/build/windows/_deps/nuget-subbuild/CMakeFiles/7846ed6648d071e986cebc7aee2b0412/nuget-populate.rule"
+		},
+		{
+			"file" : "C:/Users/Patrick/SynologyDrive/Code/multi_timer/build/windows/_deps/nuget-subbuild/CMakeFiles/12e93409eb577a02ad5505d45941d076/nuget-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/Patrick/SynologyDrive/Code/multi_timer/build/windows/_deps/nuget-subbuild/CMakeFiles/fc2bf66079b9c45e2bc1c63ec8da1d70/nuget-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/Patrick/SynologyDrive/Code/multi_timer/build/windows/_deps/nuget-subbuild/CMakeFiles/fc2bf66079b9c45e2bc1c63ec8da1d70/nuget-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/Patrick/SynologyDrive/Code/multi_timer/build/windows/_deps/nuget-subbuild/CMakeFiles/fc2bf66079b9c45e2bc1c63ec8da1d70/nuget-populate-copyfile.rule"
+		},
+		{
+			"file" : "C:/Users/Patrick/SynologyDrive/Code/multi_timer/build/windows/_deps/nuget-subbuild/CMakeFiles/fc2bf66079b9c45e2bc1c63ec8da1d70/nuget-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/Patrick/SynologyDrive/Code/multi_timer/build/windows/_deps/nuget-subbuild/CMakeFiles/fc2bf66079b9c45e2bc1c63ec8da1d70/nuget-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/Patrick/SynologyDrive/Code/multi_timer/build/windows/_deps/nuget-subbuild/CMakeFiles/fc2bf66079b9c45e2bc1c63ec8da1d70/nuget-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/Patrick/SynologyDrive/Code/multi_timer/build/windows/_deps/nuget-subbuild/CMakeFiles/fc2bf66079b9c45e2bc1c63ec8da1d70/nuget-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/Patrick/SynologyDrive/Code/multi_timer/build/windows/_deps/nuget-subbuild/CMakeFiles/fc2bf66079b9c45e2bc1c63ec8da1d70/nuget-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/Patrick/SynologyDrive/Code/multi_timer/build/windows/_deps/nuget-subbuild/CMakeFiles/fc2bf66079b9c45e2bc1c63ec8da1d70/nuget-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"nuget-populate"
+		],
+		"name" : "nuget-populate"
+	}
+}

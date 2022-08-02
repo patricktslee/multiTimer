@@ -1,0 +1,10 @@
+^C:\USERS\PATRICK\SYNOLOGYDRIVE\CODE\MULTI_TIMER\BUILD\WINDOWS\CMAKEFILES\2928BD04228A625BFA27192B0459D807\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

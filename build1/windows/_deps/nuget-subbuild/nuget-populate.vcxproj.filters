@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Patrick\SynologyDrive\Code\multi_timer\build\windows\_deps\nuget-subbuild\CMakeFiles\fc2bf66079b9c45e2bc1c63ec8da1d70\nuget-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Patrick\SynologyDrive\Code\multi_timer\build\windows\_deps\nuget-subbuild\CMakeFiles\fc2bf66079b9c45e2bc1c63ec8da1d70\nuget-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Patrick\SynologyDrive\Code\multi_timer\build\windows\_deps\nuget-subbuild\CMakeFiles\fc2bf66079b9c45e2bc1c63ec8da1d70\nuget-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Patrick\SynologyDrive\Code\multi_timer\build\windows\_deps\nuget-subbuild\CMakeFiles\fc2bf66079b9c45e2bc1c63ec8da1d70\nuget-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Patrick\SynologyDrive\Code\multi_timer\build\windows\_deps\nuget-subbuild\CMakeFiles\fc2bf66079b9c45e2bc1c63ec8da1d70\nuget-populate-copyfile.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Patrick\SynologyDrive\Code\multi_timer\build\windows\_deps\nuget-subbuild\CMakeFiles\fc2bf66079b9c45e2bc1c63ec8da1d70\nuget-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Patrick\SynologyDrive\Code\multi_timer\build\windows\_deps\nuget-subbuild\CMakeFiles\fc2bf66079b9c45e2bc1c63ec8da1d70\nuget-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Patrick\SynologyDrive\Code\multi_timer\build\windows\_deps\nuget-subbuild\CMakeFiles\fc2bf66079b9c45e2bc1c63ec8da1d70\nuget-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Patrick\SynologyDrive\Code\multi_timer\build\windows\_deps\nuget-subbuild\CMakeFiles\fc2bf66079b9c45e2bc1c63ec8da1d70\nuget-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Patrick\SynologyDrive\Code\multi_timer\build\windows\_deps\nuget-subbuild\CMakeFiles\12e93409eb577a02ad5505d45941d076\nuget-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Patrick\SynologyDrive\Code\multi_timer\build\windows\_deps\nuget-subbuild\CMakeFiles\7846ed6648d071e986cebc7aee2b0412\nuget-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Patrick\SynologyDrive\Code\multi_timer\build\windows\_deps\nuget-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Patrick\SynologyDrive\Code\multi_timer\build\windows\_deps\nuget-subbuild\CMakeFiles\nuget-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{0F277CA0-89D7-3F4D-94BA-855FD5E203C0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

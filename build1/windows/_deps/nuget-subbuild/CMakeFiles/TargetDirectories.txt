@@ -1,0 +1,3 @@
+C:/Users/Patrick/SynologyDrive/Code/multi_timer/build/windows/_deps/nuget-subbuild/CMakeFiles/nuget-populate.dir
+C:/Users/Patrick/SynologyDrive/Code/multi_timer/build/windows/_deps/nuget-subbuild/CMakeFiles/ALL_BUILD.dir
+C:/Users/Patrick/SynologyDrive/Code/multi_timer/build/windows/_deps/nuget-subbuild/CMakeFiles/ZERO_CHECK.dir

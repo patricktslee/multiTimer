@@ -1,0 +1,28 @@
+^C:\USERS\PATRICK\SYNOLOGYDRIVE\CODE\MULTI_TIMER\BUILD\WINDOWS\CMAKEFILES\1DA9920B481FE9797410E985CAE73624\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\flutter PROJECT_DIR=C:\Users\Patrick\SynologyDrive\Code\multi_timer FLUTTER_ROOT=C:\flutter FLUTTER_EPHEMERAL_DIR=C:\Users\Patrick\SynologyDrive\Code\multi_timer\windows\flutter\ephemeral PROJECT_DIR=C:\Users\Patrick\SynologyDrive\Code\multi_timer FLUTTER_TARGET=C:\Users\Patrick\SynologyDrive\Code\multi_timer\lib\main.dart DART_DEFINES=RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ== DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false PACKAGE_CONFIG=C:\Users\Patrick\SynologyDrive\Code\multi_timer\.dart_tool\package_config.json C:/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\PATRICK\SYNOLOGYDRIVE\CODE\MULTI_TIMER\BUILD\WINDOWS\CMAKEFILES\4195023A34CF3C547D6D95677775F9BC\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\PATRICK\SYNOLOGYDRIVE\CODE\MULTI_TIMER\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/Patrick/SynologyDrive/Code/multi_timer/windows -BC:/Users/Patrick/SynologyDrive/Code/multi_timer/build/windows --check-stamp-file C:/Users/Patrick/SynologyDrive/Code/multi_timer/build/windows/flutter/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
